@@ -1,0 +1,19 @@
+d:\Users\A150401\Desktop\Rename\KNM Job Rename1.exe
+d:\Users\A150401\Desktop\Rename\KNM Job Rename1.dll
+d:\Users\A150401\Desktop\Rename\KNM Job Rename1.deps.json
+d:\Users\A150401\Desktop\Rename\KNM Job Rename1.runtimeconfig.json
+d:\Users\A150401\Desktop\Rename\KNM Job Rename1.pdb
+d:\Users\A150401\Desktop\Rename\EPPlus.dll
+d:\Users\A150401\Desktop\Rename\EPPlus.Interfaces.dll
+d:\Users\A150401\Desktop\Rename\EPPlus.System.Drawing.dll
+d:\Users\A150401\Desktop\Rename\Microsoft.Extensions.Configuration.dll
+d:\Users\A150401\Desktop\Rename\Microsoft.Extensions.Configuration.Abstractions.dll
+d:\Users\A150401\Desktop\Rename\Microsoft.Extensions.Configuration.FileExtensions.dll
+d:\Users\A150401\Desktop\Rename\Microsoft.Extensions.Configuration.Json.dll
+d:\Users\A150401\Desktop\Rename\Microsoft.Extensions.FileProviders.Abstractions.dll
+d:\Users\A150401\Desktop\Rename\Microsoft.Extensions.FileProviders.Physical.dll
+d:\Users\A150401\Desktop\Rename\Microsoft.Extensions.FileSystemGlobbing.dll
+d:\Users\A150401\Desktop\Rename\Microsoft.Extensions.Primitives.dll
+d:\Users\A150401\Desktop\Rename\Microsoft.IO.RecyclableMemoryStream.dll
+d:\Users\A150401\Desktop\Rename\System.Security.Cryptography.Pkcs.dll
+d:\Users\A150401\Desktop\Rename\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll

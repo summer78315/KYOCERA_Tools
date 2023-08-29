@@ -1,0 +1,33 @@
+C:\Users\A150401\source\repos\KNM Job Rename1\obj\Debug\net6.0-windows\KNM Job Rename1.csproj.AssemblyReference.cache
+C:\Users\A150401\source\repos\KNM Job Rename1\obj\Debug\net6.0-windows\KNM_Job_Rename1.Properties.Resources.resources
+C:\Users\A150401\source\repos\KNM Job Rename1\obj\Debug\net6.0-windows\KNM Job Rename1.csproj.GenerateResource.cache
+C:\Users\A150401\source\repos\KNM Job Rename1\obj\Debug\net6.0-windows\KNM Job Rename1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A150401\source\repos\KNM Job Rename1\obj\Debug\net6.0-windows\KNM Job Rename1.AssemblyInfoInputs.cache
+C:\Users\A150401\source\repos\KNM Job Rename1\obj\Debug\net6.0-windows\KNM Job Rename1.AssemblyInfo.cs
+C:\Users\A150401\source\repos\KNM Job Rename1\obj\Debug\net6.0-windows\KNM Job Rename1.csproj.CoreCompileInputs.cache
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\KNM Job Rename1.exe
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\KNM Job Rename1.deps.json
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\KNM Job Rename1.runtimeconfig.json
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\KNM Job Rename1.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\KNM Job Rename1.pdb
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\EPPlus.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\EPPlus.Interfaces.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\EPPlus.System.Drawing.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\obj\Debug\net6.0-windows\KNM_Job_Rename1.Form1.resources
+C:\Users\A150401\source\repos\KNM Job Rename1\obj\Debug\net6.0-windows\KNM Job Rename1.csproj.CopyComplete
+C:\Users\A150401\source\repos\KNM Job Rename1\obj\Debug\net6.0-windows\KNM Job Rename1.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\obj\Debug\net6.0-windows\refint\KNM Job Rename1.dll
+C:\Users\A150401\source\repos\KNM Job Rename1\obj\Debug\net6.0-windows\KNM Job Rename1.pdb
+C:\Users\A150401\source\repos\KNM Job Rename1\obj\Debug\net6.0-windows\KNM Job Rename1.genruntimeconfig.cache
+C:\Users\A150401\source\repos\KNM Job Rename1\obj\Debug\net6.0-windows\ref\KNM Job Rename1.dll
